@@ -1,0 +1,126 @@
+
+.tbody{
+	height:1000px;
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	background-color:#5599FF;
+	min-width:1700px;
+}
+.tbody1{
+	height:1000px;
+	width:100%;
+	position:absolute;
+	top:1000px;
+	left:0;
+	background-color:#5599FF;
+	min-width:1700px;
+
+}
+.tbody2{
+	height:440px;
+	width:100%;
+	position:absolute;
+	top:2000px;
+	left:0;
+	background-color:#5599FF;
+	min-width:1700px;
+}
+
+.title{
+	position:absolute;
+	top:200px;
+	left:37%;
+}
+.head{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+}
+.introduction{
+	position:absolute;
+	top:400px;
+	width:100%;
+}
+.introduction1{
+	position:absolute;
+	width:100%;
+	z-index:0;
+}
+.click{
+	position:absolute;
+	top:850px;
+	left:41%;
+}
+.click:hover{
+	position:absolute;
+	top:850px;
+	left:41%;
+	width:400px;
+	height:100px;
+}
+.foot{
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+}
+.data{
+	position:absolute;
+	top:100px;
+	left:900px;
+	z-index:2;
+}
+.ship{
+	position:absolute;
+	top:155px;
+	left:1000px;
+}
+.slide{
+	position:fixed;
+	right:0;
+	top:450px;
+	z-index:10; 
+}
+.facebook1{
+	position:fixed;
+	width:50px;
+	height:50px;
+	right:15px;
+	top:750px;
+	z-index:11;
+}
+.facebook:hover{
+	opacity:1;
+}
+.facebook{
+	position:fixed;
+	width:50px;
+	height:50px;
+	right:15px;
+	top:750px;
+	z-index:11;
+	opacity:0;
+}
+.phone{
+	position:fixed;
+	right:0px;
+	top:530px;
+	z-index:11;
+	font-size:12pt;
+	font-family:"微軟正黑體";
+}
+tr,td{
+	font-size:14pt;
+	font-family:"微軟正黑體";
+	padding:5px;
+
+}
+.cc{
+	position:absolute;
+	bottom:20px;
+	left:900px;
+	z-index:11;
+}
